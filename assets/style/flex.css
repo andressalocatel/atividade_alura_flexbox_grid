@@ -145,6 +145,17 @@
 
     .agenda__lista {
     justify-content: center;
+}
+        .eventos__botao {
+    display: flex;
+    justify-content: center;
+    width: 100%;
 
 }
+    .agenda__botao {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+    }
 }
